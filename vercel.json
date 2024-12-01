@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "backend_s1",
+  "name": "client_server_OAuth2",
   "builds": [
     {
       "src": "src/index.ts",
